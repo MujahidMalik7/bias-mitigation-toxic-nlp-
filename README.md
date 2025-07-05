@@ -82,42 +82,42 @@ Rabail — NLP & AI Enthusiast | Final Year CS
 
 
 ---
-## 🧠 Results 
+
+## 📊 Evaluation Graphs
 
 ### LSTM Results
-![LSTM AUC per Term](model-evaluation-plots/lstm_auc_per_term.png)  
+![LSTM AUC per Term](model-evaluation-plots/Lstm_AUC_Per_Term.png)  
 *Figure: AUC distribution per identity term for LSTM model.*
 
-![LSTM FPR per Term](model-evaluation-plots/lstm_fpr_per_term.png)  
+![LSTM FPR per Term](model-evaluation-plots/LSTM_FPR_Per_Term.png)  
 *Figure: False Positive Rate per identity term for LSTM model.*
 
 ---
 
 ### BiLSTM Results
-![BiLSTM AUC per Term](model-evaluation-plots/bilstm_auc_per_term.png)  
+![BiLSTM AUC per Term](model-evaluation-plots/BiLSTM_AUC_Per_Term.png)  
 *Figure: AUC per identity term for BiLSTM model.*
 
-![BiLSTM FPR per Term](model-evaluation-plots/bilstm_fpr_per_term.png)  
+![BiLSTM FPR per Term](model-evaluation-plots/BiLSTM_FPR_Per_Term.png)  
 *Figure: False Positive Rate per identity term for BiLSTM model.*
 
 ---
 
 ### Transformer Encoder Results
-![Transformer Encoder AUC per Term](model-evaluation-plots/transformer_encoder_auc.png)  
+![Transformer Encoder AUC per Term](model-evaluation-plots/Transformer_Encoder_AUC_Per_Term.png)  
 *Figure: AUC per identity term for Transformer Encoder model.*
 
-![Transformer Encoder FPR per Term](model-evaluation-plots/transformer_encoder_fpr.png)  
+![Transformer Encoder FPR per Term](model-evaluation-plots/Transformer_Encoder_FPR_Per_Term.png)  
 *Figure: False Positive Rate per identity term for Transformer Encoder model.*
 
 ---
 
 ### Transformer with Embedding Results
-![Transformer Embedding AUC per Term](model-evaluation-plots/transformer_embedding_auc.png)  
+![Transformer Embedding AUC per Term](model-evaluation-plots/Transformer_Embedding_AUC_Per_Term.png)  
 *Figure: AUC per identity term for Transformer with Embedding model.*
 
-![Transformer Embedding FPR per Term](model-evaluation-plots/transformer_embedding_fpr.png)  
+![Transformer Embedding FPR per Term](model-evaluation-plots/Transformer_Embedding_FPR_Per_Term.png)  
 *Figure: False Positive Rate per identity term for Transformer with Embedding model.*
-
 
 
 ## 📊 Dataset
