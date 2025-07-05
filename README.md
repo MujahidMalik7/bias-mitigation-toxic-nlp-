@@ -82,6 +82,43 @@ Rabail — NLP & AI Enthusiast | Final Year CS
 
 
 ---
+## 🧠 Results 
+
+### LSTM Results
+![LSTM AUC per Term](model-evaluation-plots/lstm_auc_per_term.png)  
+*Figure: AUC distribution per identity term for LSTM model.*
+
+![LSTM FPR per Term](model-evaluation-plots/lstm_fpr_per_term.png)  
+*Figure: False Positive Rate per identity term for LSTM model.*
+
+---
+
+### BiLSTM Results
+![BiLSTM AUC per Term](model-evaluation-plots/bilstm_auc_per_term.png)  
+*Figure: AUC per identity term for BiLSTM model.*
+
+![BiLSTM FPR per Term](model-evaluation-plots/bilstm_fpr_per_term.png)  
+*Figure: False Positive Rate per identity term for BiLSTM model.*
+
+---
+
+### Transformer Encoder Results
+![Transformer Encoder AUC per Term](model-evaluation-plots/transformer_encoder_auc.png)  
+*Figure: AUC per identity term for Transformer Encoder model.*
+
+![Transformer Encoder FPR per Term](model-evaluation-plots/transformer_encoder_fpr.png)  
+*Figure: False Positive Rate per identity term for Transformer Encoder model.*
+
+---
+
+### Transformer with Embedding Results
+![Transformer Embedding AUC per Term](model-evaluation-plots/transformer_embedding_auc.png)  
+*Figure: AUC per identity term for Transformer with Embedding model.*
+
+![Transformer Embedding FPR per Term](model-evaluation-plots/transformer_embedding_fpr.png)  
+*Figure: False Positive Rate per identity term for Transformer with Embedding model.*
+
+
 
 ## 📊 Dataset
 
