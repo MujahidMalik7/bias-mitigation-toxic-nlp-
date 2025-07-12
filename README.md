@@ -73,9 +73,13 @@ This project addresses **unintended bias** in toxic comment classification using
 ## 👤 Author
 
 Mujahid — NLP & AI Enthusiast | Final Year CS 
+
 Zeeshan — NLP & AI Enthusiast | Final Year CS 
+
 Talha — NLP & AI Enthusiast | Final Year CS 
+
 Bilal — NLP & AI Enthusiast | Final Year CS 
+
 Rabail — NLP & AI Enthusiast | Final Year CS 
 
 📧 Personal Email: mujahidtufail726@gmail.com
